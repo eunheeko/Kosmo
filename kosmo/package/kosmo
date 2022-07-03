@@ -1,7 +1,0 @@
-import astropy
-
-class Kosmo():
-
-    def __init__(self):
-
-        return
