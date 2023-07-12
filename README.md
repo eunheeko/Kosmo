@@ -1,8 +1,8 @@
 # Kosmo
 
-last modified: 3 July 2022
+last modified: 12 July 2023
 
 This package is under construction.
 
 ## Installation
-'git clone git@github.com:eunheeko/Kosmo.git'
+<!-- 'git clone git@github.com:eunheeko/Kosmo.git' -->
